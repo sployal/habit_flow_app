@@ -2,7 +2,9 @@
 
 Welcome to **Habit Flow** – your personal habit tracker designed to help you build, track, and celebrate your daily routines! 🚀
 
-![Habit Flow App Screenshot](images/app%20screenshort.jpg)
+<p align="center">
+  <img src="images/app%20screenshort.jpg" alt="Habit Flow App Screenshot" width="200"/>
+</p>
 
 ---
 
